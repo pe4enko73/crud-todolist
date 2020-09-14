@@ -1,0 +1,24 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "name": "Mosty xs 3",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "name": "Task 2",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "name": "Task 3",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "name": "New Task",
+      "completed": false
+    }
+  ]
+}
